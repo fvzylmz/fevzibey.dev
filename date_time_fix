@@ -1,1 +1,7 @@
-Tesla bot aktif.
+{
+  "trigger": true,
+  "target_time": "18:30",
+  "color": "red",
+  "drive": "rwd",
+  "range": "500km"
+}
